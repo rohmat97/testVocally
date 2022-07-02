@@ -73,7 +73,7 @@ package-lock.json
 
 # OS X
 .DS_Store
-
+Pods
 # Test generated files
 /ReactAndroid/src/androidTest/assets/AndroidTestBundle.js
 *.js.meta
