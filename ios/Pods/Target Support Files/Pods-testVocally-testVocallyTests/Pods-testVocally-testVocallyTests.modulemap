@@ -1,0 +1,6 @@
+module Pods_testVocally_testVocallyTests {
+  umbrella header "Pods-testVocally-testVocallyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
